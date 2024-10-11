@@ -1,2 +1,2 @@
-# dbt_helper_pkg
+# dbtPyHelperPkg
 DBT package primarily to support Python functionality.
